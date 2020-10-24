@@ -1,0 +1,4 @@
+battery
+bottle
+can
+cigarette
