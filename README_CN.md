@@ -1,6 +1,6 @@
-# mask-tflite
+# rubbish-tflite
 一个分类器，用于分类电池，瓶子，易拉罐，和烟头
-[English README](https://github.com/SingTown/mask-tflite/blob/main/README.md)
+[English README](https://github.com/SingTown/rubbish-tflite/blob/main/README.md)
 
 
 这个模型是使用edgeimpulse训练的，教程：
@@ -21,7 +21,7 @@ https://docs.edgeimpulse.com/docs/openmv-cam-h7-plus
 3. 你可以在终端中看到结果。
 
 ## 结果
-![test_battery](https://github.com/SingTown/mask-tflite/blob/main/test/test_battery.png)
-![test_bottle](https://github.com/SingTown/mask-tflite/blob/main/test/test_bottle.png)
-![test_can](https://github.com/SingTown/mask-tflite/blob/main/test/test_can.png)
-![test_cigarette](https://github.com/SingTown/mask-tflite/blob/main/test/test_cigarette.png)
+![test_battery](https://github.com/SingTown/rubbish-tflite/blob/main/test/test_battery.png)
+![test_bottle](https://github.com/SingTown/rubbish-tflite/blob/main/test/test_bottle.png)
+![test_can](https://github.com/SingTown/rubbish-tflite/blob/main/test/test_can.png)
+![test_cigarette](https://github.com/SingTown/rubbish-tflite/blob/main/test/test_cigarette.png)

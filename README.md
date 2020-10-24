@@ -1,6 +1,6 @@
-# mask-tflite
+# rubbish-tflite
 A classification of battery, bottle, can, and cigarette.
-[中文README](https://github.com/SingTown/mask-tflite/blob/main/README_CN.md)
+[中文README](https://github.com/SingTown/rubbish-tflite/blob/main/README_CN.md)
 
 
 This model I trained with edgeimpulse, tutorial:
@@ -21,7 +21,7 @@ You can use the `dataset editor` of the OpenMV IDE to open the `dataset` directo
 3. you can see result in terminal.
 
 ## result
-![test_battery](https://github.com/SingTown/mask-tflite/blob/main/test/test_battery.png)
-![test_bottle](https://github.com/SingTown/mask-tflite/blob/main/test/test_bottle.png)
-![test_can](https://github.com/SingTown/mask-tflite/blob/main/test/test_can.png)
-![test_cigarette](https://github.com/SingTown/mask-tflite/blob/main/test/test_cigarette.png)
+![test_battery](https://github.com/SingTown/rubbish-tflite/blob/main/test/test_battery.png)
+![test_bottle](https://github.com/SingTown/rubbish-tflite/blob/main/test/test_bottle.png)
+![test_can](https://github.com/SingTown/rubbish-tflite/blob/main/test/test_can.png)
+![test_cigarette](https://github.com/SingTown/rubbish-tflite/blob/main/test/test_cigarette.png)
